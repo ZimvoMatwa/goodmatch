@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ZimvoMatwa/goodmatch/issues"
   },
-  "homepage": "https://github.com/ZimvoMatwa/goodmatch#readme"
+  "homepage": "https://github.com/ZimvoMatwa/goodmatch#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
