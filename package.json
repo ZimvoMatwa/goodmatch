@@ -1,0 +1,19 @@
+{
+  "name": "goodmatch",
+  "version": "1.0.0",
+  "description": "assessment submission at devrico for Zimvo Matwa",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZimvoMatwa/goodmatch.git"
+  },
+  "author": "Zimvo Matwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZimvoMatwa/goodmatch/issues"
+  },
+  "homepage": "https://github.com/ZimvoMatwa/goodmatch#readme"
+}
